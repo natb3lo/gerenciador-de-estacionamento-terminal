@@ -1,0 +1,77 @@
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+
+# Build results
+bin/
+obj/
+out/
+
+# Rider
+*.sln.iml
+
+# Visual Studio cache/options
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of PackageReference
+packages/
+
+# NuGet v3
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Visual Studio temporary files
+*.tmp
+*.temp
+~$*
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Rider
+.idea/
+*.sln.iml
+
+# Dotnet Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
